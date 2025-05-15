@@ -4,7 +4,7 @@
 ## How to run this assignment-1
 ### First install dependecy pandas by command on command promt "pip install pandas"
 ### Run project on vs code or terminal by running below commands
- -  python main.py create --orderid 105 --customer "Eva" --product "Keyboard" --quantity 3 --price 700
+ -  python main.py create --orderid 105 --customer "Shital" --product "Keyboard" --quantity 3 --price 700
  -  python main.py read --customer "Bob"
 -   python main.py update --orderid 102 --quantity 6
 -   python main.py delete --orderid 101
